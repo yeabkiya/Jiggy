@@ -1,2 +1,4 @@
 this is new third file.
 this is the third file I added to my proj
+
+Git is kinda cool.

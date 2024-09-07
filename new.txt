@@ -1,5 +1,6 @@
-This is my first commit that I committed 
+This is my first commit that I myself committed 
 
 This is my second commit I just wanted to know how to do this again.
 
-This is my third commit I don't want to commit the second one so ill commit this one
+Im just typing whatever.
+Here too.
